@@ -8,7 +8,7 @@
 }
 
 html,body{
-    Width:1200px;
+    Width:100vw;
     Height:100%;
     overflow-x: hidden;
 }
